@@ -1,0 +1,29 @@
+.text-center{
+    text-align: center;
+}
+
+.table-bordered{
+    border:1px solid black;
+}
+
+.toright{
+    padding-left:80%;
+}
+
+
+
+.toleft{
+    padding-right:80%;
+}
+
+.active{
+    background-color: #007bff;
+    color:white;
+}
+
+.acc-to-the-search{
+    width: 50%;
+    position: relative;
+    top:29px;
+    z-index:1;
+}
